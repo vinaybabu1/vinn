@@ -1,5 +1,5 @@
 n=int(input("enter a number:"))
-temo=n
+temp=n
 rev=0
 while(n>0):
   dig=n%10
